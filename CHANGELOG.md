@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "animallogic-usd" extension will be documented in this file.
 
+## [0.0.4]
+- Added support for numeric highlighting (thanks @sho7noka)
+
 ## [0.0.3]
 - Improved asset handling with support for triple-@ `@@@myserver?a1=foo.usd@267751@@@`
 
